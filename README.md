@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+This is me Nayeem Ahmed
 
 - 🔭 I’m currently working on Celloscope Ltd
 - 🌱 I’m currently learning Reactive programming using Java.
